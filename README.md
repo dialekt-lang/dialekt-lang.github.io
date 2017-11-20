@@ -3,7 +3,7 @@
 Dialekt is a very small language for representing boolean expressions of the
 form often used by simple search engines.
 
-Try the [online demo](http://dialekt.icecave.com.au)
+Try the [online demo](http://dialekt.icecave.com.au).
 
 ## Rationale and Concepts
 
