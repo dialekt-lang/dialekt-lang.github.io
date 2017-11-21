@@ -35,7 +35,9 @@ The example below is a Dialekt expression that uses the entire Dialekt grammar.
 As you can see it is a simple language, reminiscent of SQL. You can see how this
 expression is parsed using the [online demo](http://dialekt.icecave.com.au/?expr=foo+bar+wildcard*+AND+%28baz+OR+qux%29+AND+NOT+%22quoted+string%22).
 
-    foo bar* AND (baz OR qux) AND NOT "string \"with\" quotes"
+```python
+foo bar* AND (baz OR qux) AND NOT "string \"with\" quotes"
+```
 
 ### Tags
 
