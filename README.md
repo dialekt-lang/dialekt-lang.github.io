@@ -25,9 +25,10 @@ entities with tags that match the expression.
 
 ## Implementations
 
-- [PHP](https://github.cwx.io/IcecaveStudios/dialekt)
-- [JavaScript](https://github.cwx.io/IcecaveStudios/dialekt-js)
-- [Go](https://github.cwx.io/dialekt-lang/dialekt-go) (work in progress)
+- [PHP](https://github.com/dialekt-lang/dialekt-php)
+- [JavaScript](https://github.com/dialekt-lang/dialekt-js)
+- [Go](https://github.com/dialekt-lang/dialekt-go) (work in progress)
+- [Java](https://github.com/dialekt-lang/dialekt-java) (work in progress)
 
 ## Syntax
 
